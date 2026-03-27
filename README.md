@@ -7,7 +7,7 @@ Inspired by the classic 5-letter word guessing game. You have 6 attempts to gues
 ## Features
 
 - 🎮 **Classic gameplay** - 6 attempts to guess a 5-letter word
-- 📝 **735-word dictionary** - File-based word list for easy customization
+- 📝 **668-word dictionary** - File-based word list for easy customization
 - 🔤 **Letter tracking** - On-screen alphabet shows which letters you've used
 - 🎯 **Smart feedback** - Two-pass algorithm handles duplicate letters correctly
 - 💾 **Memory efficient** - Uses file seek for random word selection
@@ -64,7 +64,7 @@ cd pentalix
 | File | Description |
 |------|-------------|
 | `pentalix.bas` | Main game program |
-| `words.txt` | Dictionary of 735 five-letter words |
+| `words.txt` | Dictionary of 668 five-letter words |
 | `design.md` | Technical design document |
 
 ## Customizing the Word List
