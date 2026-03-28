@@ -82,3 +82,4 @@ MIT License - Feel free to modify and share!
 
 - Developed for the [PicoCalc](https://github.com/clockworkpi/PicoCalc) device
 - Written in [MMBasic](https://geoffg.net/mmbasic.html)
+- Written with the help of [AgentZero](https://www.agent-zero.ai/)
